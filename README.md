@@ -1,36 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1120,30:1E3A8A,60:2563EB,100:FACC15&amp;height=260&amp;section=header&amp;text=ARMAN%20GHOLAMALY&amp;fontSize=54&amp;fontColor=FACC15&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=FRONTEND%20DEVELOPER%20%7C%20REACT%20%26%20NEXT.JS%20%26%20JAVASCRIPT&amp;descSize=17&amp;descAlignY=62&amp;descColor=E2E8F0&amp;stroke=FACC15&amp;strokeWidth=1" width="100%" alt="Arman Gholamaly"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e0a,30:0d1a0d,60:00ff41,100:00e5ff&height=260&section=header&text=ARMAN%20GHOLAMALY&fontSize=54&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20REACT%20%2B%20NEXT.JS&descSize=17&descAlignY=62&descColor=d0ffd0&stroke=00ff41&strokeWidth=1" width="100%" alt="Arman Gholamaly"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;pause=1000&amp;color=FACC15&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Turning+ideas+into+interactive+web+experiences+%E2%9A%A1;Frontend+Developer+%7C+React+%26+Next.js+%26+JavaScript;Learning+TypeScript+%26+Next.js+%26+Advanced+JS+%F0%9F%93%98;Build.+Learn.+Improve.+Repeat.+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00ff41&center=true&vCenter=true&width=720&lines=Turning+ideas+into+interactive+web+experiences+%E2%9A%A1;Frontend+Developer+%7C+React+and+Next.js+and+JavaScript;Learning+TypeScript+and+Advanced+Next.js+%F0%9F%93%98;Build.+Learn.+Improve.+Repeat.+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=17&amp;pause=1500&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=%3E+npx+create-next-app%40latest;%3E+npm+run+dev+%E2%9A%A1;%3E+console.log(%22Hello+World%22)%3B;%3E+git+push+origin+main+%F0%9F%9A%80" alt="Terminal Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1500&color=00e5ff&center=true&vCenter=true&width=560&lines=%24+npx+create-next-app%40latest;%24+npm+run+dev+%E2%9A%A1;%24+console.log(%22Hello+World%22)%3B;%24+git+push+origin+main+%F0%9F%9A%80" alt="Terminal Typing"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ArmanGhM">
-  <img src="https://img.shields.io/badge/GITHUB-ArmanGhM-FACC15?style=for-the-badge&amp;logo=github&amp;labelColor=0B1220&amp;logoColor=FACC15" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-ArmanGhM-00ff41?style=for-the-badge&logo=github&labelColor=0a0e0a&logoColor=00ff41" alt="GitHub"/>
 </a>
 <a href="https://startup-digtale.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-2563EB?style=for-the-badge&amp;logo=vercel&amp;labelColor=0B1220&amp;logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-00e5ff?style=for-the-badge&logo=vercel&labelColor=0a0e0a&logoColor=00e5ff" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/arman-gholamaly-478769437">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;labelColor=0B1220&amp;logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-a855f7?style=for-the-badge&logo=linkedin&labelColor=0a0e0a&logoColor=a855f7" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ArmanGhM&amp;label=Profile%20Views&amp;color=FACC15&amp;style=for-the-badge" alt="Views"/>
-<img src="https://img.shields.io/github/followers/ArmanGhM?label=Followers&amp;style=for-the-badge&amp;color=38BDF8&amp;labelColor=0B1220" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/ArmanGhM?label=Stars&amp;style=for-the-badge&amp;color=FACC15&amp;labelColor=0B1220" alt="Stars"/>
-<img src="https://img.shields.io/badge/Focus-Frontend%20Dev-2563EB?style=for-the-badge&amp;labelColor=0B1220" alt="Focus"/>
-<img src="https://img.shields.io/badge/Stack-React%20%2B%20Next.js-38BDF8?style=for-the-badge&amp;labelColor=0B1220" alt="Stack"/>
+<img src="https://komarev.com/ghpvc/?username=ArmanGhM&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Views"/>
+<img src="https://img.shields.io/github/followers/ArmanGhM?label=Followers&style=for-the-badge&color=00e5ff&labelColor=0a0e0a" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/ArmanGhM?label=Stars&style=for-the-badge&color=39ff14&labelColor=0a0e0a" alt="Stars"/>
+<img src="https://img.shields.io/badge/Focus-Frontend%20Dev-a855f7?style=for-the-badge&labelColor=0a0e0a" alt="Focus"/>
+<img src="https://img.shields.io/badge/Stack-React%20%2B%20Next.js-00ff41?style=for-the-badge&labelColor=0a0e0a" alt="Stack"/>
 
 <br/><br/>
 
@@ -38,14 +38,14 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:071426,25:2563EB,50:FACC15,75:2563EB,100:071426&amp;height=4&amp;width=100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e0a,25:00ff41,50:00e5ff,75:a855f7,100:0a0e0a&height=4&width=100%" alt="divider"/>
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0B1120,50:2563EB,100:FACC15&amp;height=70&amp;text=%F0%9F%91%8B%20ABOUT%20ME&amp;fontSize=30&amp;fontColor=FACC15&amp;animation=twinkling" width="100%" alt="About"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0e0a,50:00ff41,100:00e5ff&height=70&text=%F0%9F%91%8B%20ABOUT%20ME&fontSize=30&fontColor=00ff41&animation=twinkling" width="100%" alt="About"/>
 </div>
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding"/>
@@ -78,95 +78,68 @@ const arman = {
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:071426,25:FACC15,50:2563EB,75:FACC15,100:071426&amp;height=4&amp;width=100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e0a,25:a855f7,50:00ff41,75:a855f7,100:0a0e0a&height=4&width=100%" alt="divider"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:FACC15,50:2563EB,100:0B1120&amp;height=70&amp;text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK&amp;fontSize=30&amp;fontColor=FACC15&amp;animation=twinkling" width="100%" alt="Tech Stack"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00ff41,50:a855f7,100:0a0e0a&height=70&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK&fontSize=30&fontColor=00ff41&animation=twinkling" width="100%" alt="Tech Stack"/>
 </div>
 
 <div align="center">
 
-### 🧠 Languages &amp; Frontend
+### 🧠 Languages & Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&amp;theme=dark&amp;perline=8" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark&perline=8" alt="Frontend"/>
 
-### 🛠️ Tools &amp; Workflow
+### 🛠️ Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vercel&amp;theme=dark&amp;perline=6" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vercel&theme=dark&perline=6" alt="Tools"/>
 
 ### 📚 Learning Path
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs&amp;theme=dark&amp;perline=5" alt="Learning"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs&theme=dark&perline=5" alt="Learning"/>
 
 </div>
 
-<br/>
-
-```mermaid
-pie showData
-    title My Tech Focus Areas
-    "JavaScript" : 25
-    "React" : 20
-    "Next.js" : 20
-    "TypeScript" : 15
-    "CSS/Tailwind" : 12
-    "HTML" : 8
-```
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:071426,25:2563EB,50:FACC15,75:2563EB,100:071426&amp;height=4&amp;width=100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e0a,25:00e5ff,50:00ff41,75:00e5ff,100:0a0e0a&height=4&width=100%" alt="divider"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0B1120,50:2563EB,100:FACC15&amp;height=70&amp;text=%F0%9F%93%8A%20GITHUB%20STATS&amp;fontSize=30&amp;fontColor=FACC15&amp;animation=twinkling" width="100%" alt="Stats"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0e0a,50:00ff41,100:00e5ff&height=70&text=%F0%9F%93%8A%20GITHUB%20STATS&fontSize=30&fontColor=00ff41&animation=twinkling" width="100%" alt="Stats"/>
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArmanGhM&amp;theme=tokyonight" alt="Profile Details"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArmanGhM&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1120&amp;title_color=FACC15&amp;icon_color=38BDF8&amp;text_color=E2E8F0&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true&amp;cache_seconds=1800" alt="Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanGhM&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1120&amp;title_color=FACC15&amp;text_color=E2E8F0&amp;langs_count=8&amp;cache_seconds=1800" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArmanGhM&show_icons=true&hide_border=true&bg_color=0a0e0a&title_color=00ff41&icon_color=00e5ff&text_color=d0ffd0&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanGhM&layout=compact&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=d0ffd0&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArmanGhM&amp;theme=tokyonight" alt="Repos per Language"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArmanGhM&amp;theme=tokyonight" alt="Most Commit Language"/>
+<img width="95%" src="https://streak-stats.demolab.com/?user=ArmanGhM&hide_border=true&background=0a0e0a&ring=00ff41&fire=00e5ff&currStreakLabel=00ff41&sideLabels=d0ffd0&dates=6ee7b7" alt="Streak"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArmanGhM&amp;theme=tokyonight" alt="Stats Summary"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArmanGhM&amp;theme=tokyonight&amp;utcOffset=3.5" alt="Productive Time"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArmanGhM&bg_color=0a0e0a&color=00ff41&line=00e5ff&point=d0ffd0&area=true&hide_border=true" alt="Activity Graph"/>
 
 <br/><br/>
 
-<img width="95%" src="https://streak-stats.demolab.com/?user=ArmanGhM&amp;hide_border=true&amp;background=0B1120&amp;ring=FACC15&amp;fire=38BDF8&amp;currStreakLabel=FACC15&amp;sideLabels=E2E8F0&amp;dates=94A3B8" alt="Streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArmanGhM&amp;bg_color=0B1120&amp;color=FACC15&amp;line=38BDF8&amp;point=E2E8F0&amp;area=true&amp;hide_border=true" alt="Activity Graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArmanGhM&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10&amp;margin-h=10" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ArmanGhM&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:071426,25:FACC15,50:2563EB,75:FACC15,100:071426&amp;height=4&amp;width=100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e0a,25:a855f7,50:00ff41,75:a855f7,100:0a0e0a&height=4&width=100%" alt="divider"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:FACC15,50:2563EB,100:0B1120&amp;height=70&amp;text=%F0%9F%93%98%20LEARNING&amp;fontSize=30&amp;fontColor=FACC15&amp;animation=twinkling" width="100%" alt="Learning"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00ff41,50:a855f7,100:0a0e0a&height=70&text=%F0%9F%93%98%20LEARNING&fontSize=30&fontColor=00ff41&animation=twinkling" width="100%" alt="Learning"/>
 </div>
 
 <div align="center">
@@ -181,51 +154,14 @@ pie showData
 
 </div>
 
-<br/>
-
-```mermaid
-mindmap
-  root((Arman))
-    Frontend
-      HTML5
-      CSS3
-      JavaScript
-      TypeScript
-      React.js
-      Next.js
-      TailwindCSS
-      Vite
-    Next.js
-      App Router
-      Server Components
-      Route Handlers
-      Image Optimization
-      ISR and SSR
-    Tools
-      Git
-      GitHub
-      VS Code
-      Figma
-      npm
-      Vercel
-    Learning
-      Advanced Next.js
-      Advanced JS
-      Clean Code
-      UX Design
-    Projects
-      Startup Digtale
-      SHAHRAVA
-```
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:071426,25:2563EB,50:FACC15,75:2563EB,100:071426&amp;height=4&amp;width=100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e0a,25:00e5ff,50:00ff41,75:00e5ff,100:0a0e0a&height=4&width=100%" alt="divider"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0B1120,50:2563EB,100:FACC15&amp;height=70&amp;text=%F0%9F%9A%80%20FEATURED%20PROJECTS&amp;fontSize=30&amp;fontColor=FACC15&amp;animation=twinkling" width="100%" alt="Projects"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0e0a,50:00ff41,100:00e5ff&height=70&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=30&fontColor=00ff41&animation=twinkling" width="100%" alt="Projects"/>
 </div>
 
 <table>
@@ -237,7 +173,7 @@ mindmap
 ### 🌐 Startup Digtale
 
 <a href="https://startup-digtale.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-FACC15?style=for-the-badge&amp;logo=vercel&amp;logoColor=0B1220&amp;labelColor=0B1220" alt="Live demo"/>
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-00ff41?style=for-the-badge&logo=vercel&logoColor=0a0e0a&labelColor=0a0e0a" alt="Live demo"/>
 </a>
 
 A startup website showcasing a modern frontend interface built with React.
@@ -250,10 +186,10 @@ A startup website showcasing a modern frontend interface built with React.
 
 **🛠️ Technologies**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,css&amp;theme=dark" height="32" alt="Tech"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,css&theme=dark" height="32" alt="Tech"/>
 
 <a href="https://github.com/ArmanGhM/startMpv">
-  <img src="https://img.shields.io/badge/VIEW%20SOURCE-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0B1220" alt="Source"/>
+  <img src="https://img.shields.io/badge/VIEW%20SOURCE-00e5ff?style=for-the-badge&logo=github&logoColor=0a0e0a&labelColor=0a0e0a" alt="Source"/>
 </a>
 
 </div>
@@ -266,7 +202,7 @@ A startup website showcasing a modern frontend interface built with React.
 ### 🏙️ SHAHRAVA
 
 <a href="https://github.com/ArmanGhM/shahrava">
-  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-38BDF8?style=for-the-badge&amp;logo=github&amp;logoColor=0B1220&amp;labelColor=0B1220" alt="Explore"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-a855f7?style=for-the-badge&logo=github&logoColor=0a0e0a&labelColor=0a0e0a" alt="Explore"/>
 </a>
 
 A Persian city-discovery project focused on exploring cities and location-related information.
@@ -279,10 +215,10 @@ A Persian city-discovery project focused on exploring cities and location-relate
 
 **🛠️ Technologies**
 
-<img src="https://skillicons.dev/icons?i=nextjs,html,css,js&amp;theme=dark" height="32" alt="Tech"/>
+<img src="https://skillicons.dev/icons?i=nextjs,html,css,js&theme=dark" height="32" alt="Tech"/>
 
 <a href="https://github.com/ArmanGhM/shahrava">
-  <img src="https://img.shields.io/badge/VIEW%20REPO-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0B1220" alt="Repo"/>
+  <img src="https://img.shields.io/badge/VIEW%20REPO-39ff14?style=for-the-badge&logo=github&logoColor=0a0e0a&labelColor=0a0e0a" alt="Repo"/>
 </a>
 
 </div>
@@ -298,57 +234,57 @@ A Persian city-discovery project focused on exploring cities and location-relate
 ### 📌 Pinned Repos
 
 <a href="https://github.com/ArmanGhM/startMpv">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmanGhM&amp;repo=startMpv&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0B1120&amp;title_color=FACC15&amp;text_color=E2E8F0&amp;icon_color=38BDF8" alt="startMpv"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmanGhM&repo=startMpv&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=d0ffd0&icon_color=00e5ff" alt="startMpv"/>
 </a>
 <a href="https://github.com/ArmanGhM/shahrava">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmanGhM&amp;repo=shahrava&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0B1120&amp;title_color=FACC15&amp;text_color=E2E8F0&amp;icon_color=38BDF8" alt="shahrava"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmanGhM&repo=shahrava&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=d0ffd0&icon_color=00e5ff" alt="shahrava"/>
 </a>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:071426,25:FACC15,50:2563EB,75:FACC15,100:071426&amp;height=4&amp;width=100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e0a,25:a855f7,50:00ff41,75:a855f7,100:0a0e0a&height=4&width=100%" alt="divider"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:FACC15,50:2563EB,100:0B1120&amp;height=70&amp;text=%E2%8F%B1%EF%B8%8F%20ACTIVITY&amp;fontSize=30&amp;fontColor=FACC15&amp;animation=twinkling" width="100%" alt="Activity"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00ff41,50:a855f7,100:0a0e0a&height=70&text=%E2%8F%B1%EF%B8%8F%20ACTIVITY&fontSize=30&fontColor=00ff41&animation=twinkling" width="100%" alt="Activity"/>
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArmanGhM&amp;hide_border=true&amp;bg_color=0B1120&amp;title_color=FACC15&amp;text_color=E2E8F0&amp;layout=compact&amp;langs_count=8" alt="WakaTime"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArmanGhM&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=d0ffd0&layout=compact&langs_count=8" alt="WakaTime"/>
 
 <br/><br/>
 
 ### 🔥 Contribution Heatmap
 
-<img width="100%" src="https://ghchart.rshah.org/FACC15/ArmanGhM" alt="Contribution Heatmap"/>
+<img width="100%" src="https://ghchart.rshah.org/00ff41/ArmanGhM" alt="Contribution Heatmap"/>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:071426,25:2563EB,50:FACC15,75:2563EB,100:071426&amp;height=4&amp;width=100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e0a,25:00e5ff,50:00ff41,75:00e5ff,100:0a0e0a&height=4&width=100%" alt="divider"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0B1120,50:2563EB,100:FACC15&amp;height=70&amp;text=%F0%9F%8E%AE%20FUN%20ZONE&amp;fontSize=30&amp;fontColor=FACC15&amp;animation=twinkling" width="100%" alt="Fun Zone"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0e0a,50:00ff41,100:00e5ff&height=70&text=%F0%9F%8E%AE%20FUN%20ZONE&fontSize=30&fontColor=00ff41&animation=twinkling" width="100%" alt="Fun Zone"/>
 </div>
 
 <div align="center">
 
 ### 💬 Dev Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 
 <br/><br/>
 
 ### 😄 Random Programming Joke
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&amp;hideBorder=true&amp;bgColor=0B1120" alt="Dev Joke"/>
+<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&bgColor=0a0e0a" alt="Dev Joke"/>
 
 <br/><br/>
 
@@ -359,13 +295,13 @@ A Persian city-discovery project focused on exploring cities and location-relate
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:071426,25:FACC15,50:2563EB,75:FACC15,100:071426&amp;height=4&amp;width=100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e0a,25:a855f7,50:00ff41,75:a855f7,100:0a0e0a&height=4&width=100%" alt="divider"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:FACC15,50:2563EB,100:0B1120&amp;height=70&amp;text=%F0%9F%97%BA%EF%B8%8F%20ROADMAP&amp;fontSize=30&amp;fontColor=FACC15&amp;animation=twinkling" width="100%" alt="Roadmap"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00ff41,50:a855f7,100:0a0e0a&height=70&text=%F0%9F%97%BA%EF%B8%8F%20ROADMAP&fontSize=30&fontColor=00ff41&animation=twinkling" width="100%" alt="Roadmap"/>
 </div>
 
 ### 🎯 My Journey
@@ -394,60 +330,38 @@ graph LR
     E --> F[TypeScript]
     F --> G[Clean Code]
     G --> H[Expert]
-    style A fill:#FACC15,color:#111827,stroke:#FACC15
-    style H fill:#2563EB,color:#fff,stroke:#38BDF8
-    style D fill:#38BDF8,color:#111827
-    style E fill:#FACC15,color:#111827,stroke:#FACC15
-```
-
-### 🌟 Weekly Activity
-
-```mermaid
-journey
-    title My Weekly Coding Journey
-    section Monday
-      Code: 5: Me
-      Learn: 4: Me
-    section Tuesday
-      Code: 5: Me
-      Debug: 3: Me
-    section Wednesday
-      Design: 4: Me
-      Next.js: 5: Me
-    section Thursday
-      Learn: 5: Me
-      Build: 4: Me
-    section Friday
-      Code: 3: Me
-      Review: 5: Me
+    style A fill:#00ff41,color:#0a0e0a,stroke:#00ff41
+    style H fill:#a855f7,color:#fff,stroke:#00e5ff
+    style D fill:#00e5ff,color:#0a0e0a
+    style E fill:#00ff41,color:#0a0e0a,stroke:#00ff41
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:071426,25:2563EB,50:FACC15,75:2563EB,100:071426&amp;height=4&amp;width=100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e0a,25:00e5ff,50:00ff41,75:00e5ff,100:0a0e0a&height=4&width=100%" alt="divider"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0B1120,50:2563EB,100:FACC15&amp;height=70&amp;text=%F0%9F%93%AB%20CONNECT&amp;fontSize=30&amp;fontColor=FACC15&amp;animation=twinkling" width="100%" alt="Connect"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0e0a,50:00ff41,100:00e5ff&height=70&text=%F0%9F%93%AB%20CONNECT&fontSize=30&fontColor=00ff41&animation=twinkling" width="100%" alt="Connect"/>
 </div>
 
 <div align="center">
 
 <a href="https://github.com/ArmanGhM">
-  <img src="https://img.shields.io/badge/GitHub-ArmanGhM-FACC15?style=for-the-badge&amp;logo=github&amp;labelColor=0B1220&amp;logoColor=FACC15" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-ArmanGhM-00ff41?style=for-the-badge&logo=github&labelColor=0a0e0a&logoColor=00ff41" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/arman-gholamaly-478769437">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;labelColor=0B1220&amp;logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-a855f7?style=for-the-badge&logo=linkedin&labelColor=0a0e0a&logoColor=a855f7" alt="LinkedIn"/>
 </a>
 <a href="https://startup-digtale.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&amp;logo=vercel&amp;labelColor=0B1220&amp;logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00e5ff?style=for-the-badge&logo=vercel&labelColor=0a0e0a&logoColor=00e5ff" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=FACC15&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+amazing+with+Next.js!+%E2%9A%A1;Feel+free+to+reach+out+%F0%9F%93%AC" alt="Footer Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00ff41&center=true&vCenter=true&width=620&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+amazing+with+Next.js!+%E2%9A%A1;Feel+free+to+reach+out+%F0%9F%93%AC" alt="Footer Typing"/>
 </a>
 
 </div>
@@ -456,20 +370,20 @@ journey
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1120,30:1E3A8A,60:2563EB,100:FACC15&amp;height=160&amp;section=footer" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e0a,30:0d1a0d,60:00ff41,100:00e5ff&height=160&section=footer" width="100%" alt="Footer Wave"/>
 
-### <img src="https://img.shields.io/badge/-BUILD-2563EB?style=for-the-badge&amp;labelColor=0B1220" alt="Build"/> <img src="https://img.shields.io/badge/-LEARN-FACC15?style=for-the-badge&amp;labelColor=0B1220" alt="Learn"/> <img src="https://img.shields.io/badge/-IMPROVE-2563EB?style=for-the-badge&amp;labelColor=0B1220" alt="Improve"/> <img src="https://img.shields.io/badge/-REPEAT-FACC15?style=for-the-badge&amp;labelColor=0B1220" alt="Repeat"/>
+### <img src="https://img.shields.io/badge/-BUILD-00ff41?style=for-the-badge&labelColor=0a0e0a" alt="Build"/> <img src="https://img.shields.io/badge/-LEARN-00e5ff?style=for-the-badge&labelColor=0a0e0a" alt="Learn"/> <img src="https://img.shields.io/badge/-IMPROVE-a855f7?style=for-the-badge&labelColor=0a0e0a" alt="Improve"/> <img src="https://img.shields.io/badge/-REPEAT-39ff14?style=for-the-badge&labelColor=0a0e0a" alt="Repeat"/>
 
 **Build. Learn. Improve. Repeat.** ⚡
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=17&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=540&amp;lines=Turning+ideas+into+web+experiences...;React+%2B+Next.js+%2B+TypeScript+%E2%9A%A1;Thanks+for+visiting+%F0%9F%91%8B" alt="Footer Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=1200&color=00e5ff&center=true&vCenter=true&width=540&lines=Turning+ideas+into+web+experiences...;React+and+Next.js+and+TypeScript+%E2%9A%A1;Thanks+for+visiting+%F0%9F%91%8B" alt="Footer Typing"/>
 </a>
 
 <sub>Made with ❤️ by Arman Gholamaly</sub>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ArmanGhM&amp;label=Thanks+for+visiting!&amp;color=2563EB&amp;style=for-the-badge" alt="Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=ArmanGhM&label=Thanks+for+visiting!&color=00ff41&style=for-the-badge" alt="Visitors"/>
 
 </div>
