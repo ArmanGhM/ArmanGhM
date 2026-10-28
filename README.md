@@ -28,7 +28,9 @@
   <a href="https://startup-digtale.vercel.app/"><img src="./assets/btn-portfolio.svg" alt="Portfolio: startup-digtale.vercel.app" height="64"></a>
 </p>
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%"></div>
+<div align="center">
+  <img src="./assets/scene.svg" alt="Animated cyberpunk night city: a skyline scrolling past under a glowing aurora, flickering neon signs reading code, React and UI, flying cars, rain and shooting stars." width="100%">
+</div>
 
 <h2 align="center"><img src="./assets/sec-about.svg" alt="About" width="100%"></h2>
 
