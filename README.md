@@ -3,6 +3,8 @@
 
   - Every visual is a self-hosted SVG in ./assets: no scripts, no external fonts, no third-party image services.
   - The stats card (assets/stats.svg) is generated from public GitHub data by .github/workflows/stats.yml.
+  - Colour theme: the big visuals cycle through red, amber, mint, blue and violet (about 32 s per loop) using one SVG filter
+    animation. The mascot keeps its natural colours (only its lighting is tinted), and the tech tiles keep their brand colours.
   - The only external image is the optional profile-views counter in the footer (komarev.com). Delete it if you prefer zero third parties.
 -->
 

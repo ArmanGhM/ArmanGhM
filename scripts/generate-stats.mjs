@@ -16,6 +16,19 @@ const C = { bg: '#0A0E17', panel: '#101726', panel2: '#141C2E', line: '#1F2B47',
 const MONO = "'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,'DejaVu Sans Mono',monospace";
 const SANS = "'Segoe UI','Inter','Helvetica Neue',Arial,'DejaVu Sans',sans-serif";
 const LANG_COLORS = { JavaScript: '#F1E05A', TypeScript: '#3178C6', HTML: '#E34C26', CSS: '#7A5BD6', SCSS: '#C6538C', Python: '#3572A5', Shell: '#89E051', Vue: '#41B883', Java: '#B07219', 'C++': '#F34B7D', C: '#8B97B0' };
+// Colour-cycling theme: same tri-tone filter + timeline as every other SVG in ./assets (red, amber, mint, blue, violet).
+const THEMES = [[[1, .16, .24], [.05, .01, .02]], [[1, .78, 0], [.05, .03, .004]], [[.14, .98, .6], [.004, .035, .024]], [[.17, .5, 1], [.008, .022, .065]], [[.66, .33, 1], [.03, .01, .065]]];
+function themeFilter(W, H) {
+  const D = 4.6, T = 1.8, N = THEMES.length, total = N * (D + T); const kt = [], idx = [];
+  for (let i = 0; i < N; i++) { const a = i * (D + T); kt.push(a, a + D); idx.push(i, i); }
+  kt.push(total); idx.push(0);
+  const keyTimes = kt.map((t) => +(t / total).toFixed(4)).join(';');
+  const fn = (name, ch) => {
+    const tb = THEMES.map(([t, b]) => [b[ch], b[ch] + (t[ch] - b[ch]) * 0.3, b[ch] + (t[ch] - b[ch]) * 0.72, t[ch], 1].map((v) => v.toFixed(3)).join(' '));
+    return `<feFunc${name} type="table" tableValues="${tb[0]}"><animate attributeName="tableValues" values="${idx.map((i) => tb[i]).join(';')}" keyTimes="${keyTimes}" dur="${total}s" repeatCount="indefinite"/></feFunc${name}>`;
+  };
+  return `<filter id="th" x="0" y="0" width="${W}" height="${H}" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values=".299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 0 0 0 1 0"/><feComponentTransfer>${fn('R', 0)}${fn('G', 1)}${fn('B', 2)}</feComponentTransfer></filter>`;
+}
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const fmt = (n) => new Intl.NumberFormat('en-US').format(n);
 
@@ -102,7 +115,8 @@ function render(d) {
             : `<rect class="cell pop" style="animation-delay:${dly}s" x="${hx + wi * (cs + gap)}" y="${hy + di * (cs + gap)}" width="${cs}" height="${cs}" rx="3" fill="${shade(day.n)}"><title>${esc(day.date)}: ${day.n}</title></rect>`;
   }));
   b += `<rect class="sweep" x="${hx}" y="${hy - 4}" width="60" height="${7 * (cs + gap) + 4}" fill="#fff" opacity=".07" transform-origin="0 0"/>`;
-  // languages
+  // languages (kept in their real colours, so drawn outside the theme filter)
+  let lang = '';
   const ly = 318;
   b += `<text class="m" x="36" y="${ly}" font-size="14" fill="${C.muted}">// most used languages (by bytes, own repos)</text>`;
   if (ph) {
@@ -116,11 +130,11 @@ function render(d) {
     let x = 36; const total = 600;
     top.forEach(([name, bytes], i) => {
       const w = Math.max(6, Math.round((bytes / sum) * total)); const col = LANG_COLORS[name] || C.muted;
-      b += `<rect class="grow" style="animation-delay:${0.4 + i * 0.15}s" x="${x}" y="${ly + 14}" width="${w - 2}" height="16" rx="5" fill="${col}"/>`; x += w;
+      lang += `<rect class="grow" style="animation-delay:${0.4 + i * 0.15}s" x="${x}" y="${ly + 14}" width="${w - 2}" height="16" rx="5" fill="${col}"/>`; x += w;
     });
     top.forEach(([name, bytes], i) => {
       const col = LANG_COLORS[name] || C.muted; const cx = 36 + (i % 3) * 200; const cy = ly + 62 + Math.floor(i / 3) * 30;
-      b += `<g class="rise" style="animation-delay:${0.8 + i * 0.1}s"><circle cx="${cx + 6}" cy="${cy - 5}" r="6" fill="${col}"/><text class="m" x="${cx + 20}" y="${cy}" font-size="14" fill="${C.txt}">${esc(name)}</text><text class="m" x="${cx + 20 + name.length * 8.6 + 8}" y="${cy}" font-size="14" fill="${C.muted}">${((bytes / sum) * 100).toFixed(1)}%</text></g>`;
+      lang += `<g class="rise" style="animation-delay:${0.8 + i * 0.1}s"><circle cx="${cx + 6}" cy="${cy - 5}" r="6" fill="${col}"/><text class="m" x="${cx + 20}" y="${cy}" font-size="14" fill="${C.txt}">${esc(name)}</text><text class="m" x="${cx + 20 + name.length * 8.6 + 8}" y="${cy}" font-size="14" fill="${C.muted}">${((bytes / sum) * 100).toFixed(1)}%</text></g>`;
     });
   }
   // streak + activity panel
@@ -132,7 +146,7 @@ function render(d) {
   b += `<rect class="chase" x="2" y="2" width="${W - 4}" height="${H - 4}" rx="24" fill="none" stroke="${C.green}" stroke-width="2.6" stroke-linecap="round" stroke-dasharray="180 3020"/>`;
   const desc = ph ? 'Placeholder for the live GitHub stats card. Numbers appear after the first GitHub Actions run.'
     : `GitHub stats for ${USER}: ${d.repos} public repositories, ${d.stars} stars, ${d.followers} followers, ${d.total} contributions in the last year.`;
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-labelledby="t d"><title id="t">GitHub stats for ${esc(USER)}</title><desc id="d">${esc(desc)}</desc><style>${CSS}</style>${b}</svg>`;
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-labelledby="t d"><title id="t">GitHub stats for ${esc(USER)}</title><desc id="d">${esc(desc)}</desc><style>${CSS}</style><defs>${themeFilter(W, H)}</defs><g filter="url(#th)">${b}</g>${lang}</svg>`;
 }
 
 const data = MODE === 'live' ? await loadLive() : MODE === 'mock' ? loadMock() : null;
